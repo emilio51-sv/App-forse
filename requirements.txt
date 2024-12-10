@@ -1,0 +1,5 @@
+crewai==0.80.0
+pandas==2.2.3
+pysqlite3_binary
+streamlit==1.40.1
+openpyxl
